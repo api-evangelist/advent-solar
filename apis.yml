@@ -23,14 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/advent-solar.png
 name: Advent Solar
-description: Advent Solar was a silicon photovoltaic company founded in 2002 and headquartered in
-  Albuquerque, New Mexico, that designed and manufactured crystalline-silicon (c-Si) solar cells and
-  modules, pioneering emitter-wrap-through cell architectures and streamlined back-contact module
-  assembly. Backed by Battery Ventures, EnerTech Capital, @Ventures and others across roughly $109M in
-  venture funding (including a $70M Series D in 2007), the company's assets and intellectual property
-  were acquired by Applied Materials in late 2009 / 2010. As a physical solar-hardware manufacturer that
-  is no longer operating independently, Advent Solar exposes no public API, developer portal, or software
-  surface; this profile is retained as a network identity record with no API artifacts to enrich.
+description: Advent Solar was a silicon photovoltaic company founded in 2002 and headquartered in Albuquerque,
+  New Mexico, that designed and manufactured crystalline-silicon (c-Si) solar cells and modules, pioneering
+  emitter-wrap-through cell architectures and streamlined back-contact module assembly. Backed by Battery
+  Ventures, EnerTech Capital, @Ventures and others across roughly $109M in venture funding (including
+  a $70M Series D in 2007), the company's assets and intellectual property were acquired by Applied Materials
+  in late 2009 / 2010. As a physical solar-hardware manufacturer that is no longer operating independently,
+  Advent Solar exposes no public API, developer portal, or software surface; this profile is retained
+  as a network identity record with no API artifacts to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/advent-solar/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -40,8 +40,8 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
-x-status: acquired
+modified: '2026-09-15'
+x-status: defunct
 x-acquired-by: applied-materials
 tags:
 - Company
